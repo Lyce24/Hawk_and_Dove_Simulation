@@ -1,6 +1,6 @@
 # Hawk_and_Dove_Simulation
 An elementary simulation of the hawk and dove game, which is a game-theoretical model of aggressive behavior. \
-From lines 33 to 39, users are allowed to change the variable to see how different things can affect the outcome.
+From lines 33 to 39, users are allowed to change the variables to see how different things can affect the outcomes.
 
 # Simulation 1 - Hawks vs. Doves
 In the file, hawkdove.py, uncomment the line 334 to 337 and comment lines 338 to 341 and 348 to see how the world will end up if there are just two types of birds, aggressive one and never-fight one. \
