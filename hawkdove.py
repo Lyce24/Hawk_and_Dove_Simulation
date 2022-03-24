@@ -328,7 +328,7 @@ class Evolving(Bird):
 
 
 ########
-# The code below actually runs the simulation.  You shouldn't have to do anything to it.
+# The code below actually runs the simulation.  You can change the codes according to the instructions given to run different simulations.
 ########
 w = World()
 # for i in range(init_dove):
